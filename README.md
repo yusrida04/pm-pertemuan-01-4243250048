@@ -55,7 +55,11 @@ Aplikasi Hello World dibuat menggunakan Flutter dan bahasa pemrograman Dart. Apl
 
 **Solusi:** Saya mempelajari fungsi file utama, menyesuaikan kode pada `lib/main.dart`, dan menggunakan perintah `flutter pub get` untuk memeriksa serta mengambil dependensi project sebelum menjalankan aplikasi.
 
-## F. Esai: Native, Hybrid, dan Cross-platform
+## F. Penggunaan AI
+
+Dalam pengerjaan tugas ini, AI digunakan sebagai pendamping belajar untuk memahami langkah setup Flutter, fungsi widget, serta panduan penulisan dokumentasi README dan penanganan kendala terminal. Seluruh kode tetap diperiksa dan dijalankan secara mandiri melalui VS Code, serta disesuaikan dengan identitas dan hasil pengerjaan pribadi agar pemahaman terhadap program tetap terjaga.
+
+## G. Esai: Native, Hybrid, dan Cross-platform
 
 Pengembangan aplikasi mobile dapat dilakukan menggunakan pendekatan native, hybrid, dan cross-platform. Ketiganya memiliki perbedaan dalam teknologi yang digunakan, proses pengembangan, dan pemeliharaan aplikasi.
 
