@@ -4,8 +4,8 @@
 ## A. Identitas
 
 - Nama: Yusrida Jelianti Sihite
-- NIM: 4241250009
-- Kelas: [Isi kelas]
+- NIM: 42412500094243250048
+- Kelas: psik 24c
 - Mata Kuliah: Pemrograman Mobile
 - Tugas: Setup Environment dan Aplikasi Hello World Flutter
 
