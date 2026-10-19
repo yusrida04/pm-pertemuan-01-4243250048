@@ -1,17 +1,50 @@
-# pm_pertemuan_01
 
-A new Flutter project.
+# Pemrograman Mobile - Pertemuan 1
 
-## Getting Started
+## A. Identitas
 
-This project is a starting point for a Flutter application.
+- Nama: Yusrida Jelianti Sihite
+- NIM: 4241250009
+- Kelas: [Isi kelas]
+- Mata Kuliah: Pemrograman Mobile
+- Tugas: Setup Environment dan Aplikasi Hello World Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## B. Versi Flutter
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Tempelkan output perintah `flutter --version` di sini.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## C. Screenshot Flutter Doctor
+
+Simpan screenshot hasil `flutter doctor` di folder `screenshots/`.
+
+![Flutter Doctor](screenshots/flutter-doctor.png)
+
+## D. Screenshot Aplikasi
+
+Simpan screenshot aplikasi yang berjalan di emulator atau HP
+di folder `screenshots/`.
+
+![Aplikasi Hello World](screenshots/hello-world.png)
+
+## E. Kendala dan Solusi
+
+### Kendala 1
+Kendala: [Tuliskan kendala yang benar-benar dialami.]
+
+Solusi: [Jelaskan langkah yang kamu lakukan untuk mengatasinya.]
+
+### Kendala 2
+Kendala: [Tuliskan kendala lain yang benar-benar dialami.]
+
+Solusi: [Jelaskan langkah yang kamu lakukan untuk mengatasinya.]
+
+## F. Penggunaan AI
+
+[Jika menggunakan AI, jelaskan alat yang digunakan, bagian
+yang dibantu, dan bagaimana kamu memeriksa serta memahami
+kode yang dihasilkan. Jika tidak menggunakan AI, tuliskan
+sesuai keadaan sebenarnya.]
+
+## G. Esai: Native, Hybrid, dan Cross-platform
+
+[Tulis esai 150–250 kata dengan kata-katamu sendiri.]
