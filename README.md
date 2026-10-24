@@ -70,3 +70,4 @@ Aplikasi hybrid menggabungkan teknologi web, seperti HTML, CSS, dan JavaScript, 
 Sementara itu, cross-platform memungkinkan pengembang menggunakan satu basis kode untuk membangun aplikasi pada beberapa platform. Salah satu contohnya adalah Flutter yang menggunakan bahasa Dart. Pendekatan ini cocok untuk aplikasi pencatatan keuangan mahasiswa yang ingin tersedia di Android dan iOS dengan tampilan yang relatif konsisten.
 
 Menurut saya, pemilihan pendekatan harus disesuaikan dengan kebutuhan aplikasi, kemampuan tim, biaya pemeliharaan, dan fitur perangkat yang diperlukan. Untuk proyek pembelajaran ini, Flutter menjadi pilihan yang tepat karena membantu saya mempelajari pengembangan aplikasi mobile lintas platform melalui satu basis kode.
+
